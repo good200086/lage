@@ -7,6 +7,8 @@ public class asdda {
 		System.out.println("zzzzzz");
 		System.out.println("zzzzzz");
 
+		System.out.println("GAY");
+
 	}
 
 }
